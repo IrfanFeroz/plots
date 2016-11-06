@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/apk/lib/com.androidplot.xy"><dataSet config="1.5$Generated" generated="true"><source path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res"/></dataSet><dataSet config="1.0.3$Generated" generated="true"><source path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.halfhp.fig/figlib/1.0.3/res"/></dataSet><dataSet config="1.2.3$Generated" generated="true"><source path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.androidplot/androidplot-core/1.2.3/res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res"/><source path="/home/mlh-9343/Desktop/androidplot/demoapp/build/generated/res/rs/debug"/><source path="/home/mlh-9343/Desktop/androidplot/demoapp/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/home/mlh-9343/Desktop/androidplot/demoapp/src/debug/res"/></dataSet><dataSet config="1.5" from-dependency="true" generated-set="1.5$Generated"><source path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res"><file name="leak_canary_notification" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/drawable-xhdpi-v4/leak_canary_notification.png" qualifiers="xhdpi-v4" type="drawable"/><file name="leak_canary_icon" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/drawable-xhdpi-v4/leak_canary_icon.png" qualifiers="xhdpi-v4" type="drawable"/><file name="leak_canary_notification" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/drawable-xxxhdpi-v11/leak_canary_notification.png" qualifiers="xxxhdpi-v11" type="drawable"/><file name="leak_canary_notification" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/drawable-mdpi-v11/leak_canary_notification.png" qualifiers="mdpi-v11" type="drawable"/><file path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/values-v21/values-v21.xml" qualifiers="v21"><style name="leak_canary_LeakCanary.Base" parent="android:Theme.Material">
+  </style></file><file name="leak_canary_notification" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/drawable-xhdpi-v11/leak_canary_notification.png" qualifiers="xhdpi-v11" type="drawable"/><file name="leak_canary_notification" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/drawable-hdpi-v4/leak_canary_notification.png" qualifiers="hdpi-v4" type="drawable"/><file name="leak_canary_icon" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/drawable-hdpi-v4/leak_canary_icon.png" qualifiers="hdpi-v4" type="drawable"/><file path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/values/values.xml" qualifiers=""><string name="leak_canary_no_leak_text">The GC was being lazy.</string><style name="leak_canary_LeakCanary.Base" parent="android:Theme">
+  </style><string name="leak_canary_permission_notification_title">Leak detected, need permission</string><string name="leak_canary_failure_report">"Please report this failure to http://github.com/square/leakcanary\n"</string><string name="leak_canary_share_heap_dump">Share heap dump</string><string name="leak_canary_could_not_save_title">Could not save result.</string><string name="leak_canary_display_activity_label">Leaks</string><string name="leak_canary_share_leak">Share info</string><string name="leak_canary_class_has_leaked">%1$s leaked %2$s</string><string name="leak_canary_no_leak_title">No leak found</string><string name="leak_canary_storage_permission_activity_label">Storage permission</string><string name="leak_canary_delete_all">Delete all</string><string name="leak_canary_delete_all_leaks_title">Are you sure you want to delete all leaks?</string><string name="leak_canary_permission_notification_text">Click to enable storage permission for %s.</string><string name="leak_canary_excluded_row">[Excluded] %s</string><string name="leak_canary_permission_not_granted">Please grant external storage permission, otherwise memory leaks will not be detected.</string><string name="leak_canary_notification_message">Click for more details</string><string name="leak_canary_share_with">Share with…</string><string name="leak_canary_leak_excluded">[Excluded] %1$s leaked %2$s</string><style name="leak_canary_Theme.Transparent" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+  </style><string name="leak_canary_analysis_failed">Leak analysis failed</string><string name="leak_canary_delete">Delete</string><string name="leak_canary_could_not_save_text">LeakCanary was unable to save the analysis result.</string><string name="leak_canary_toast_heap_dump">Dumping memory, app will freeze. Brrrr.</string><string name="leak_canary_leak_list_title">Leaks in %s</string></file><file name="leak_canary_notification" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/drawable-xxhdpi-v11/leak_canary_notification.png" qualifiers="xxhdpi-v11" type="drawable"/><file path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/values-v14/values-v14.xml" qualifiers="v14"><style name="leak_canary_LeakCanary.Base" parent="android:Theme.Holo">
+  </style></file><file name="leak_canary_toast_background" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/drawable/leak_canary_toast_background.xml" qualifiers="" type="drawable"/><file name="leak_canary_notification" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/drawable-hdpi-v11/leak_canary_notification.png" qualifiers="hdpi-v11" type="drawable"/><file name="leak_canary_ref_row" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_ref_row.xml" qualifiers="" type="layout"/><file name="leak_canary_leak_row" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_leak_row.xml" qualifiers="" type="layout"/><file name="leak_canary_heap_dump_toast" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_heap_dump_toast.xml" qualifiers="" type="layout"/><file name="leak_canary_display_leak" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_display_leak.xml" qualifiers="" type="layout"/><file name="leak_canary_ref_top_row" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_ref_top_row.xml" qualifiers="" type="layout"/><file name="leak_canary_notification" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/drawable-xxhdpi-v4/leak_canary_notification.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="leak_canary_icon" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/drawable-xxhdpi-v4/leak_canary_icon.png" qualifiers="xxhdpi-v4" type="drawable"/><file path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/values-de/values-de.xml" qualifiers="de"><string name="leak_canary_leak_list_title">Leaks in %s</string><string name="leak_canary_no_leak_text">Der GC war untätig.</string><string name="leak_canary_excluded_row">[Ausgeschlossen] %s</string><string name="leak_canary_analysis_failed">Leak Analyse fehlgeschlagen</string><string name="leak_canary_storage_permission_activity_label">Storage Berechtigung</string><string name="leak_canary_permission_notification_text">Hier klicken, um Storage Berechtigung für %s zu aktivieren.</string><string name="leak_canary_failure_report">"Bitte sende diesen Fehler an http://github.com/square/leakcanary\n"</string><string name="leak_canary_leak_excluded">[Ausgeschlossen] %1$s hat %2$s geleaked</string><string name="leak_canary_could_not_save_text">LeakCanary konnte das Ergebnis der Analyse nicht speichern.</string><string name="leak_canary_delete_all">Alle löschen</string><string name="leak_canary_no_leak_title">Kein Leak gefunden</string><string name="leak_canary_permission_not_granted">Bitte gewähre die Storage Berechtigung, andernfalls werden Memory Leaks nicht erkannt.</string><string name="leak_canary_permission_notification_title">Leak erkannt, benötige Berechtigung</string><string name="leak_canary_toast_heap_dump">Sichere den Speicher, die App wird einfrieren. Brrr.</string><string name="leak_canary_delete">Löschen</string><string name="leak_canary_could_not_save_title">Konnte Ergebnis nicht speichern.</string><string name="leak_canary_share_heap_dump">Heap Dump teilen</string><string name="leak_canary_notification_message">Für mehr Details hier klicken</string><string name="leak_canary_delete_all_leaks_title">Are you sure you want to delete all leaks?</string><string name="leak_canary_display_activity_label">Leaks</string><string name="leak_canary_share_leak">Info teilen</string><string name="leak_canary_share_with">Teilen mit…</string><string name="leak_canary_class_has_leaked">%1$s hat %2$s geleaked</string></file><file name="leak_canary_notification" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/drawable-xxxhdpi-v4/leak_canary_notification.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="leak_canary_icon" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/drawable-xxxhdpi-v4/leak_canary_icon.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="leak_canary_notification" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/drawable-mdpi-v4/leak_canary_notification.png" qualifiers="mdpi-v4" type="drawable"/><file name="leak_canary_icon" path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/drawable-mdpi-v4/leak_canary_icon.png" qualifiers="mdpi-v4" type="drawable"/></source></dataSet><dataSet config="1.0.3" from-dependency="true" generated-set="1.0.3$Generated"><source path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.halfhp.fig/figlib/1.0.3/res"/></dataSet><dataSet config="1.2.3" from-dependency="true" generated-set="1.2.3$Generated"><source path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.androidplot/androidplot-core/1.2.3/res"><file path="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.androidplot/androidplot-core/1.2.3/res/values/values.xml" qualifiers=""><attr format="enum" name="legendIconHeightMode">
+        <enum name="absolute" value="0"/>
+        <enum name="relative" value="1"/>
+        <enum name="fill" value="2"/>
+    </attr><attr name="lineLabels">
+        <flag name="none" value="0"/>
+        <flag name="left" value="1"/>
+        <flag name="right" value="2"/>
+        <flag name="top" value="4"/>
+        <flag name="bottom" value="8"/>
+    </attr><attr format="enum" name="legendHorizontalPositioning">
+        <enum name="absolute_from_left" value="0"/>
+        <enum name="absolute_from_right" value="1"/>
+        <enum name="absolute_from_center" value="2"/>
+        <enum name="relative_from_left" value="3"/>
+        <enum name="relative_from_right" value="4"/>
+        <enum name="relative_from_center" value="5"/>
+    </attr><attr format="enum" name="legendIconWidthMode">
+        <enum name="absolute" value="0"/>
+        <enum name="relative" value="1"/>
+        <enum name="fill" value="2"/>
+    </attr><declare-styleable name="Plot"><attr format="boolean" name="markupEnabled"/><attr name="renderMode"/><attr format="dimension" name="marginTop"/><attr format="dimension" name="marginBottom"/><attr format="dimension" name="marginLeft"/><attr format="dimension" name="marginRight"/><attr format="dimension" name="paddingTop"/><attr format="dimension" name="paddingBottom"/><attr format="dimension" name="paddingLeft"/><attr format="dimension" name="paddingRight"/><attr format="string" name="title"/><attr format="dimension" name="titleTextSize"/><attr format="color" name="titleTextColor"/><attr format="color" name="backgroundColor"/><attr format="color" name="borderColor"/><attr format="dimension" name="borderThickness"/></declare-styleable><attr format="enum" name="rangeTitleVerticalPositioning">
+        <enum name="absolute_from_top" value="0"/>
+        <enum name="absolute_from_bottom" value="1"/>
+        <enum name="absolute_from_center" value="2"/>
+        <enum name="relative_from_top" value="3"/>
+        <enum name="relative_from_bottom" value="4"/>
+        <enum name="relative_from_center" value="5"/>
+    </attr><declare-styleable name="pie.PieChart"><attr format="color" name="pieBorderColor"/><attr format="dimension" name="pieBorderThickness"/></declare-styleable><color name="ap_transparent">#00000000</color><style name="APDefacto">
+        <item name="titleTextSize">20sp</item>
+        <item name="rangeTitleTextSize">13sp</item>
+        <item name="domainTitleTextSize">13sp</item>
+        <item name="graphMarginTop">20dp</item>
+        <item name="graphMarginBottom">40dp</item>
+        <item name="graphMarginLeft">15dp</item>
+        <item name="graphMarginRight">10dp</item>
+        <item name="domainLineThickness">1dp</item>
+        <item name="rangeLineThickness">1dp</item>
+        <item name="domainOriginLineThickness">2dp</item>
+        <item name="rangeOriginLineThickness">2dp</item>
+        <item name="legendTextSize">15sp</item>
+        <item name="legendIconHeight">15dp</item>
+        <item name="legendIconWidth">15dp</item>
+        <item name="legendHeight">25dp</item>
+        <item name="legendAnchor">right_bottom</item>
+        <item name="borderColor">@color/ap_transparent</item>
+        <item name="gridInsetTop">1dp</item>
+        <item name="gridInsetBottom">20dp</item>
+        <item name="gridInsetLeft">25dp</item>
+        <item name="gridInsetRight">1dp</item>
+        <item name="lineLabels">left|bottom</item>
+        <item name="lineLabelInsetTop">1dp</item>
+        <item name="lineLabelInsetBottom">10dp</item>
+        <item name="lineLabelInsetLeft">20dp</item>
+        <item name="lineLabelInsetRight">1dp</item>
+        <item name="lineLabelTextSizeTop">15sp</item>
+        <item name="lineLabelTextSizeBottom">15sp</item>
+        <item name="lineLabelTextSizeLeft">15sp</item>
+        <item name="lineLabelTextSizeRight">15sp</item>
+        <item name="lineLabelAlignLeft">right</item>
+        <item name="lineLabelAlignRight">left</item>
+        <item name="lineLabelAlignTop">left</item>
+        <item name="lineLabelAlignBottom">right</item>
+        <item name="lineLabelRotationBottom">-45</item>
+        <item name="lineLabelRotationTop">-45</item>
+        <item name="lineExtensionLeft">3dp</item>
+        <item name="lineExtensionBottom">3dp</item>
+    </style><attr format="enum" name="rangeTitleWidthMode">
+        <enum name="absolute" value="0"/>
+        <enum name="relative" value="1"/>
+        <enum name="fill" value="2"/>
+    </attr><attr format="enum" name="domainTitleVerticalPositioning">
+        <enum name="absolute_from_top" value="0"/>
+        <enum name="absolute_from_bottom" value="1"/>
+        <enum name="absolute_from_center" value="2"/>
+        <enum name="relative_from_top" value="3"/>
+        <enum name="relative_from_bottom" value="4"/>
+        <enum name="relative_from_center" value="5"/>
+    </attr><attr format="enum" name="domainTitleHeightMode">
+        <enum name="absolute" value="0"/>
+        <enum name="relative" value="1"/>
+        <enum name="fill" value="2"/>
+    </attr><color name="off_white">#EEE</color><color name="ap_charcoal">#111</color><attr format="enum" name="graphHeightMode">
+        <enum name="absolute" value="0"/>
+        <enum name="relative" value="1"/>
+        <enum name="fill" value="2"/>
+    </attr><attr format="enum" name="rangeTitleHeightMode">
+        <enum name="absolute" value="0"/>
+        <enum name="relative" value="1"/>
+        <enum name="fill" value="2"/>
+    </attr><attr format="enum" name="previewMode">
+        <enum name="line_and_point" value="0"/>
+        <enum name="candlestick" value="1"/>
+        <enum name="bar" value="2"/>
+    </attr><attr format="enum" name="legendHeightMode">
+        <enum name="absolute" value="0"/>
+        <enum name="relative" value="1"/>
+        <enum name="fill" value="2"/>
+    </attr><attr format="enum" name="graphHorizontalPositioning">
+        <enum name="absolute_from_left" value="0"/>
+        <enum name="absolute_from_right" value="1"/>
+        <enum name="absolute_from_center" value="2"/>
+        <enum name="relative_from_left" value="3"/>
+        <enum name="relative_from_right" value="4"/>
+        <enum name="relative_from_center" value="5"/>
+    </attr><color name="ap_gray">#888</color><style name="FullScreenGraph.Minimalist.Light">
+        <item name="domainLineColor">@color/ap_black</item>
+        <item name="rangeLineColor">@color/ap_black</item>
+        <item name="backgroundColor">@color/ap_white</item>
+        <item name="gridBackgroundColor">@color/ap_white</item>
+        <item name="borderColor">@color/ap_transparent</item>
+    </style><attr format="enum" name="domainTitleAnchor">
+        <enum name="top_middle" value="0"/>
+        <enum name="left_top" value="1"/>
+        <enum name="left_middle" value="2"/>
+        <enum name="left_bottom" value="3"/>
+        <enum name="right_top" value="4"/>
+        <enum name="right_middle" value="5"/>
+        <enum name="right_bottom" value="6"/>
+        <enum name="bottom_middle" value="7"/>
+        <enum name="center" value="8"/>
+    </attr><attr format="enum" name="domainStepMode">
+        <enum name="subdivide" value="0"/>
+        <enum name="increment_by_val" value="1"/>
+        <enum name="increment_by_pixels" value="2"/>
+    </attr><attr format="enum" name="renderMode">
+        <enum name="use_background_thread" value="0"/>
+        <enum name="use_main_thread" value="0"/>
+    </attr><declare-styleable name="xy.XYPlot"><attr name="previewMode"/><attr name="domainStepMode"/><attr format="dimension|float|integer" name="domainStep"/><attr name="rangeStepMode"/><attr format="dimension|float|integer" name="rangeStep"/><attr format="string" name="domainTitle"/><attr format="color" name="domainTitleTextColor"/><attr format="dimension" name="domainTitleTextSize"/><attr name="domainTitleHeightMode"/><attr name="domainTitleWidthMode"/><attr format="dimension|float|integer" name="domainTitleHeight"/><attr format="dimension|float|integer" name="domainTitleWidth"/><attr name="domainTitleHorizontalPositioning"/><attr name="domainTitleVerticalPositioning"/><attr format="dimension|float|integer" name="domainTitleHorizontalPosition"/><attr format="dimension|float|integer" name="domainTitleVerticalPosition"/><attr name="domainTitleAnchor"/><attr format="boolean" name="domainTitleVisible"/><attr format="string" name="rangeTitle"/><attr format="color" name="rangeTitleTextColor"/><attr format="dimension" name="rangeTitleTextSize"/><attr name="rangeTitleHeightMode"/><attr name="rangeTitleWidthMode"/><attr format="dimension|float|integer" name="rangeTitleHeight"/><attr format="dimension|float|integer" name="rangeTitleWidth"/><attr name="rangeTitleHorizontalPositioning"/><attr name="rangeTitleVerticalPositioning"/><attr format="dimension|float|integer" name="rangeTitleHorizontalPosition"/><attr format="dimension|float|integer" name="rangeTitleVerticalPosition"/><attr name="rangeTitleAnchor"/><attr format="boolean" name="rangeTitleVisible"/><attr format="boolean" name="drawGridOnTop"/><attr name="graphHeightMode"/><attr name="graphWidthMode"/><attr format="dimension|float|integer" name="graphHeight"/><attr format="dimension|float|integer" name="graphWidth"/><attr name="graphHorizontalPositioning"/><attr name="graphVerticalPositioning"/><attr format="dimension|float|integer" name="graphHorizontalPosition"/><attr format="dimension|float|integer" name="graphVerticalPosition"/><attr name="graphAnchor"/><attr format="boolean" name="graphVisible"/><attr format="dimension" name="graphMarginTop"/><attr format="dimension" name="graphMarginBottom"/><attr format="dimension" name="graphMarginLeft"/><attr format="dimension" name="graphMarginRight"/><attr format="dimension" name="graphPaddingTop"/><attr format="dimension" name="graphPaddingBottom"/><attr format="dimension" name="graphPaddingLeft"/><attr format="dimension" name="graphPaddingRight"/><attr format="boolean" name="gridClippingEnabled"/><attr format="dimension" name="gridInsetTop"/><attr format="dimension" name="gridInsetBottom"/><attr format="dimension" name="gridInsetLeft"/><attr format="dimension" name="gridInsetRight"/><attr format="dimension" name="lineLabelInsetTop"/><attr format="dimension" name="lineLabelInsetBottom"/><attr format="dimension" name="lineLabelInsetLeft"/><attr format="dimension" name="lineLabelInsetRight"/><attr name="lineLabels"/><attr name="lineLabelAlignTop"/><attr name="lineLabelAlignBottom"/><attr name="lineLabelAlignLeft"/><attr name="lineLabelAlignRight"/><attr format="float" name="lineLabelRotationTop"/><attr format="float" name="lineLabelRotationBottom"/><attr format="float" name="lineLabelRotationLeft"/><attr format="float" name="lineLabelRotationRight"/><attr format="dimension" name="domainLineThickness"/><attr format="dimension" name="rangeLineThickness"/><attr format="color" name="domainLineColor"/><attr format="color" name="rangeLineColor"/><attr format="dimension" name="domainOriginLineThickness"/><attr format="dimension" name="rangeOriginLineThickness"/><attr format="color" name="domainOriginLineColor"/><attr format="color" name="rangeOriginLineColor"/><attr format="dimension" name="lineLabelTextSizeTop"/><attr format="dimension" name="lineLabelTextSizeBottom"/><attr format="dimension" name="lineLabelTextSizeLeft"/><attr format="dimension" name="lineLabelTextSizeRight"/><attr format="dimension" name="lineLabelTextColorTop"/><attr format="dimension" name="lineLabelTextColorBottom"/><attr format="dimension" name="lineLabelTextColorLeft"/><attr format="dimension" name="lineLabelTextColorRight"/><attr format="dimension" name="lineExtensionTop"/><attr format="dimension" name="lineExtensionBottom"/><attr format="dimension" name="lineExtensionLeft"/><attr format="dimension" name="lineExtensionRight"/><attr format="color" name="gridBackgroundColor"/><attr format="color" name="graphBackgroundColor"/><attr name="legendHeightMode"/><attr name="legendWidthMode"/><attr format="dimension|float|integer" name="legendHeight"/><attr format="dimension|float|integer" name="legendWidth"/><attr name="legendHorizontalPositioning"/><attr name="legendVerticalPositioning"/><attr format="dimension|float|integer" name="legendHorizontalPosition"/><attr format="dimension|float|integer" name="legendVerticalPosition"/><attr name="legendAnchor"/><attr format="dimension" name="legendTextSize"/><attr format="color" name="legendTextColor"/><attr name="legendIconHeightMode"/><attr name="legendIconWidthMode"/><attr format="dimension|float|integer" name="legendIconHeight"/><attr format="dimension|float|integer" name="legendIconWidth"/><attr format="boolean" name="legendVisible"/><attr format="dimension" name="domainLineExtension"/><attr format="dimension" name="rangeLineExtension"/></declare-styleable><attr format="enum" name="graphVerticalPositioning">
+        <enum name="absolute_from_top" value="0"/>
+        <enum name="absolute_from_bottom" value="1"/>
+        <enum name="absolute_from_center" value="2"/>
+        <enum name="relative_from_top" value="3"/>
+        <enum name="relative_from_bottom" value="4"/>
+        <enum name="relative_from_center" value="5"/>
+    </attr><attr format="enum" name="rangeStepMode">
+        <enum name="subdivide" value="0"/>
+        <enum name="increment_by_val" value="1"/>
+        <enum name="increment_by_pixels" value="2"/>
+    </attr><attr format="enum" name="graphAnchor">
+        <enum name="top_middle" value="0"/>
+        <enum name="left_top" value="1"/>
+        <enum name="left_middle" value="2"/>
+        <enum name="left_bottom" value="3"/>
+        <enum name="right_top" value="4"/>
+        <enum name="right_middle" value="5"/>
+        <enum name="right_bottom" value="6"/>
+        <enum name="bottom_middle" value="7"/>
+        <enum name="center" value="8"/>
+    </attr><attr format="enum" name="domainTitleHorizontalPositioning">
+        <enum name="absolute_from_left" value="0"/>
+        <enum name="absolute_from_right" value="1"/>
+        <enum name="absolute_from_center" value="2"/>
+        <enum name="relative_from_left" value="3"/>
+        <enum name="relative_from_right" value="4"/>
+        <enum name="relative_from_center" value="5"/>
+    </attr><color name="ap_white">#FFF</color><style name="APDefacto.Light">
+        <item name="android:background">@color/off_white</item>
+        <item name="backgroundColor">@color/off_white</item>
+        <item name="graphBackgroundColor">@color/off_white</item>
+        <item name="gridBackgroundColor">@color/ap_white</item>
+        <item name="domainLineColor">@color/ap_gray</item>
+        <item name="rangeLineColor">@color/ap_gray</item>
+        <item name="lineLabelTextColorTop">@color/ap_charcoal</item>
+        <item name="lineLabelTextColorBottom">@color/ap_charcoal</item>
+        <item name="lineLabelTextColorLeft">@color/ap_charcoal</item>
+        <item name="lineLabelTextColorRight">@color/ap_charcoal</item>
+        <item name="domainOriginLineColor">@color/ap_charcoal</item>
+        <item name="rangeOriginLineColor">@color/ap_charcoal</item>
+        <item name="titleTextColor">@color/ap_black</item>
+        <item name="domainTitleTextColor">@color/ap_black</item>
+        <item name="rangeTitleTextColor">@color/ap_black</item>
+        <item name="legendTextColor">@color/ap_black</item>
+    </style><style name="FullScreenGraph.Minimalist">
+        <item name="android:padding">0dp</item>
+        <item name="android:layout_margin">0dp</item>
+        <item name="domainLineExtension">0dp</item>
+        <item name="rangeLineExtension">0dp</item>
+        <item name="lineLabels">none</item>
+    </style><color name="ap_black">#000</color><style name="FullScreenGraph">
+        <item name="graphMarginTop">0dp</item>
+        <item name="graphMarginBottom">0dp</item>
+        <item name="graphMarginLeft">0dp</item>
+        <item name="graphMarginRight">0dp</item>
+        <item name="graphHeightMode">fill</item>
+        <item name="graphWidthMode">fill</item>
+        <item name="graphHeight">0</item>
+        <item name="graphWidth">0</item>
+        <item name="domainLineThickness">1dp</item>
+        <item name="graphHorizontalPositioning">absolute_from_left</item>
+        <item name="graphVerticalPositioning">absolute_from_top</item>
+        <item name="rangeLineThickness">1dp</item>
+        <item name="graphAnchor">left_top</item>
+        <item name="graphHorizontalPosition">0dp</item>
+        <item name="graphVerticalPosition">0dp</item>
+        <item name="legendVisible">false</item>
+    </style><style name="FullScreenGraph.Minimalist.Dark">
+        <item name="domainLineColor">@color/ap_white</item>
+        <item name="rangeLineColor">@color/ap_white</item>
+        <item name="backgroundColor">@color/ap_black</item>
+        <item name="gridBackgroundColor">@color/ap_black</item>
+        <item name="borderColor">@color/ap_transparent</item>
+    </style><attr format="enum" name="graphWidthMode">
+        <enum name="absolute" value="0"/>
+        <enum name="relative" value="1"/>
+        <enum name="fill" value="2"/>
+    </attr><attr format="enum" name="legendVerticalPositioning">
+        <enum name="absolute_from_top" value="0"/>
+        <enum name="absolute_from_bottom" value="1"/>
+        <enum name="absolute_from_center" value="2"/>
+        <enum name="relative_from_top" value="3"/>
+        <enum name="relative_from_bottom" value="4"/>
+        <enum name="relative_from_center" value="5"/>
+    </attr><attr name="lineLabelAlignTop">
+        <enum name="left" value="0"/>
+        <enum name="center" value="1"/>
+        <enum name="right" value="2"/>
+    </attr><attr format="enum" name="legendAnchor">
+        <enum name="top_middle" value="0"/>
+        <enum name="left_top" value="1"/>
+        <enum name="left_middle" value="2"/>
+        <enum name="left_bottom" value="3"/>
+        <enum name="right_top" value="4"/>
+        <enum name="right_middle" value="5"/>
+        <enum name="right_bottom" value="6"/>
+        <enum name="bottom_middle" value="7"/>
+        <enum name="center" value="8"/>
+    </attr><attr format="enum" name="legendWidthMode">
+        <enum name="absolute" value="0"/>
+        <enum name="relative" value="1"/>
+        <enum name="fill" value="2"/>
+    </attr><attr name="lineLabelAlignBottom">
+        <enum name="left" value="0"/>
+        <enum name="center" value="1"/>
+        <enum name="right" value="2"/>
+    </attr><attr name="lineLabelAlignRight">
+        <enum name="left" value="0"/>
+        <enum name="center" value="1"/>
+        <enum name="right" value="2"/>
+    </attr><attr format="enum" name="rangeTitleHorizontalPositioning">
+        <enum name="absolute_from_left" value="0"/>
+        <enum name="absolute_from_right" value="1"/>
+        <enum name="absolute_from_center" value="2"/>
+        <enum name="relative_from_left" value="3"/>
+        <enum name="relative_from_right" value="4"/>
+        <enum name="relative_from_center" value="5"/>
+    </attr><attr format="enum" name="rangeTitleAnchor">
+        <enum name="top_middle" value="0"/>
+        <enum name="left_top" value="1"/>
+        <enum name="left_middle" value="2"/>
+        <enum name="left_bottom" value="3"/>
+        <enum name="right_top" value="4"/>
+        <enum name="right_middle" value="5"/>
+        <enum name="right_bottom" value="6"/>
+        <enum name="bottom_middle" value="7"/>
+        <enum name="center" value="8"/>
+    </attr><attr format="enum" name="domainTitleWidthMode">
+        <enum name="absolute" value="0"/>
+        <enum name="relative" value="1"/>
+        <enum name="fill" value="2"/>
+    </attr><attr name="lineLabelAlignLeft">
+        <enum name="left" value="0"/>
+        <enum name="center" value="1"/>
+        <enum name="right" value="2"/>
+    </attr><style name="APDefacto.Dark">
+        <item name="android:background">@color/ap_black</item>
+        <item name="backgroundColor">@color/ap_black</item>
+        <item name="graphBackgroundColor">@color/ap_black</item>
+        <item name="gridBackgroundColor">@color/ap_charcoal</item>
+        <item name="domainLineColor">@color/off_white</item>
+        <item name="rangeLineColor">@color/off_white</item>
+        <item name="domainOriginLineColor">@color/off_white</item>
+        <item name="rangeOriginLineColor">@color/off_white</item>
+        <item name="lineLabelTextColorTop">@color/off_white</item>
+        <item name="lineLabelTextColorBottom">@color/off_white</item>
+        <item name="lineLabelTextColorLeft">@color/off_white</item>
+        <item name="lineLabelTextColorRight">@color/off_white</item>
+        <item name="titleTextColor">@color/ap_white</item>
+        <item name="domainTitleTextColor">@color/ap_white</item>
+        <item name="rangeTitleTextColor">@color/ap_white</item>
+        <item name="legendTextColor">@color/ap_white</item>
+    </style></file></source></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res"><file name="line_point_formatter" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/line_point_formatter.xml" qualifiers="" type="xml"/><file name="candlestick_formatter" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/candlestick_formatter.xml" qualifiers="" type="xml"/><file name="demo_app_widget_provider_info" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/demo_app_widget_provider_info.xml" qualifiers="" type="xml"/><file name="pie_segment_formatter2" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/pie_segment_formatter2.xml" qualifiers="" type="xml"/><file name="pie_segment_formatter1" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/pie_segment_formatter1.xml" qualifiers="" type="xml"/><file name="pie_segment_formatter3" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/pie_segment_formatter3.xml" qualifiers="" type="xml"/><file name="point_formatter" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/point_formatter.xml" qualifiers="" type="xml"/><file name="bubble_formatter1" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/bubble_formatter1.xml" qualifiers="" type="xml"/><file name="pie_segment_formatter4" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/pie_segment_formatter4.xml" qualifiers="" type="xml"/><file name="line_point_formatter_with_labels_2" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/line_point_formatter_with_labels_2.xml" qualifiers="" type="xml"/><file name="line_point_formatter_with_labels" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/line_point_formatter_with_labels.xml" qualifiers="" type="xml"/><file name="point_formatter_2" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/point_formatter_2.xml" qualifiers="" type="xml"/><file name="bubble_formatter2" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/bubble_formatter2.xml" qualifiers="" type="xml"/><file name="bubble_formatter3" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/bubble_formatter3.xml" qualifiers="" type="xml"/><file path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/values/style.xml" qualifiers=""><ns1:style name="sample_activity">
+        <ns1:item name="android:layout_width">fill_parent</ns1:item>
+        <ns1:item name="android:layout_height">fill_parent</ns1:item>
+    </ns1:style><ns1:style name="toc_button">
+        <ns1:item name="android:layout_width">fill_parent</ns1:item>
+        <ns1:item name="android:layout_height">wrap_content</ns1:item>
+    </ns1:style></file><file path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">Androidplot Demos</string><string name="sxy_title">A Simple XY Plot</string><string name="ts_plot1_title">Yearly UFO Sightings</string><string name="ts_title">Time Series</string></file><file path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/values/dimens.xml" qualifiers=""><dimen name="pie_segment_label_font_size">10sp</dimen><dimen name="sample_widget_height">72dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="domain_label_font_size">13sp</dimen><dimen name="range_label_font_size">13sp</dimen><dimen name="sample_widget_width">294dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="title_font_size">20sp</dimen><dimen name="legend_text_font_size">20sp</dimen><dimen name="range_tick_label_font_size">15sp</dimen><dimen name="domain_tick_label_font_size">15sp</dimen></file><file name="ic_launcher" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/drawable-xxxhdpi/ic_launcher.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="ic_launcher" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/drawable/ic_launcher.png" qualifiers="" type="drawable"/><file name="graph_background" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/drawable/graph_background.png" qualifiers="" type="drawable"/><file name="main" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/layout/main.xml" qualifiers="" type="layout"/><file name="scatter_plot_example" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/layout/scatter_plot_example.xml" qualifiers="" type="layout"/><file name="pie_chart" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/layout/pie_chart.xml" qualifiers="" type="layout"/><file name="demo_app_widget" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/layout/demo_app_widget.xml" qualifiers="" type="layout"/><file name="simple_xy_plot_example" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/layout/simple_xy_plot_example.xml" qualifiers="" type="layout"/><file name="spinner_item" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/layout/spinner_item.xml" qualifiers="" type="layout"/><file name="time_series_example" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/layout/time_series_example.xml" qualifiers="" type="layout"/><file name="step_chart_example" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/layout/step_chart_example.xml" qualifiers="" type="layout"/><file name="bar_plot_example" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/layout/bar_plot_example.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file path="/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/values-hdpi/dimens.xml" qualifiers="hdpi-v4"><dimen name="pie_segment_label_font_size">20dp</dimen><dimen name="title_font_size">30dp</dimen></file></source><source path="/home/mlh-9343/Desktop/androidplot/demoapp/build/generated/res/rs/debug"/><source path="/home/mlh-9343/Desktop/androidplot/demoapp/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/home/mlh-9343/Desktop/androidplot/demoapp/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="pie.PieChart"><attr format="color" name="pieBorderColor"/><attr format="dimension" name="pieBorderThickness"/></declare-styleable><declare-styleable name="Plot"><attr format="boolean" name="markupEnabled"/><attr name="renderMode"/><attr format="dimension" name="marginTop"/><attr format="dimension" name="marginBottom"/><attr format="dimension" name="marginLeft"/><attr format="dimension" name="marginRight"/><attr format="dimension" name="paddingTop"/><attr format="dimension" name="paddingBottom"/><attr format="dimension" name="paddingLeft"/><attr format="dimension" name="paddingRight"/><attr format="string" name="title"/><attr format="dimension" name="titleTextSize"/><attr format="color" name="titleTextColor"/><attr format="color" name="backgroundColor"/><attr format="color" name="borderColor"/><attr format="dimension" name="borderThickness"/></declare-styleable><declare-styleable name="xy.XYPlot"><attr name="previewMode"/><attr name="domainStepMode"/><attr format="dimension|float|integer" name="domainStep"/><attr name="rangeStepMode"/><attr format="dimension|float|integer" name="rangeStep"/><attr format="string" name="domainTitle"/><attr format="color" name="domainTitleTextColor"/><attr format="dimension" name="domainTitleTextSize"/><attr name="domainTitleHeightMode"/><attr name="domainTitleWidthMode"/><attr format="dimension|float|integer" name="domainTitleHeight"/><attr format="dimension|float|integer" name="domainTitleWidth"/><attr name="domainTitleHorizontalPositioning"/><attr name="domainTitleVerticalPositioning"/><attr format="dimension|float|integer" name="domainTitleHorizontalPosition"/><attr format="dimension|float|integer" name="domainTitleVerticalPosition"/><attr name="domainTitleAnchor"/><attr format="boolean" name="domainTitleVisible"/><attr format="string" name="rangeTitle"/><attr format="color" name="rangeTitleTextColor"/><attr format="dimension" name="rangeTitleTextSize"/><attr name="rangeTitleHeightMode"/><attr name="rangeTitleWidthMode"/><attr format="dimension|float|integer" name="rangeTitleHeight"/><attr format="dimension|float|integer" name="rangeTitleWidth"/><attr name="rangeTitleHorizontalPositioning"/><attr name="rangeTitleVerticalPositioning"/><attr format="dimension|float|integer" name="rangeTitleHorizontalPosition"/><attr format="dimension|float|integer" name="rangeTitleVerticalPosition"/><attr name="rangeTitleAnchor"/><attr format="boolean" name="rangeTitleVisible"/><attr format="boolean" name="drawGridOnTop"/><attr name="graphHeightMode"/><attr name="graphWidthMode"/><attr format="dimension|float|integer" name="graphHeight"/><attr format="dimension|float|integer" name="graphWidth"/><attr name="graphHorizontalPositioning"/><attr name="graphVerticalPositioning"/><attr format="dimension|float|integer" name="graphHorizontalPosition"/><attr format="dimension|float|integer" name="graphVerticalPosition"/><attr name="graphAnchor"/><attr format="boolean" name="graphVisible"/><attr format="dimension" name="graphMarginTop"/><attr format="dimension" name="graphMarginBottom"/><attr format="dimension" name="graphMarginLeft"/><attr format="dimension" name="graphMarginRight"/><attr format="dimension" name="graphPaddingTop"/><attr format="dimension" name="graphPaddingBottom"/><attr format="dimension" name="graphPaddingLeft"/><attr format="dimension" name="graphPaddingRight"/><attr format="boolean" name="gridClippingEnabled"/><attr format="dimension" name="gridInsetTop"/><attr format="dimension" name="gridInsetBottom"/><attr format="dimension" name="gridInsetLeft"/><attr format="dimension" name="gridInsetRight"/><attr format="dimension" name="lineLabelInsetTop"/><attr format="dimension" name="lineLabelInsetBottom"/><attr format="dimension" name="lineLabelInsetLeft"/><attr format="dimension" name="lineLabelInsetRight"/><attr name="lineLabels"/><attr name="lineLabelAlignTop"/><attr name="lineLabelAlignBottom"/><attr name="lineLabelAlignLeft"/><attr name="lineLabelAlignRight"/><attr format="float" name="lineLabelRotationTop"/><attr format="float" name="lineLabelRotationBottom"/><attr format="float" name="lineLabelRotationLeft"/><attr format="float" name="lineLabelRotationRight"/><attr format="dimension" name="domainLineThickness"/><attr format="dimension" name="rangeLineThickness"/><attr format="color" name="domainLineColor"/><attr format="color" name="rangeLineColor"/><attr format="dimension" name="domainOriginLineThickness"/><attr format="dimension" name="rangeOriginLineThickness"/><attr format="color" name="domainOriginLineColor"/><attr format="color" name="rangeOriginLineColor"/><attr format="dimension" name="lineLabelTextSizeTop"/><attr format="dimension" name="lineLabelTextSizeBottom"/><attr format="dimension" name="lineLabelTextSizeLeft"/><attr format="dimension" name="lineLabelTextSizeRight"/><attr format="dimension" name="lineLabelTextColorTop"/><attr format="dimension" name="lineLabelTextColorBottom"/><attr format="dimension" name="lineLabelTextColorLeft"/><attr format="dimension" name="lineLabelTextColorRight"/><attr format="dimension" name="lineExtensionTop"/><attr format="dimension" name="lineExtensionBottom"/><attr format="dimension" name="lineExtensionLeft"/><attr format="dimension" name="lineExtensionRight"/><attr format="color" name="gridBackgroundColor"/><attr format="color" name="graphBackgroundColor"/><attr name="legendHeightMode"/><attr name="legendWidthMode"/><attr format="dimension|float|integer" name="legendHeight"/><attr format="dimension|float|integer" name="legendWidth"/><attr name="legendHorizontalPositioning"/><attr name="legendVerticalPositioning"/><attr format="dimension|float|integer" name="legendHorizontalPosition"/><attr format="dimension|float|integer" name="legendVerticalPosition"/><attr name="legendAnchor"/><attr format="dimension" name="legendTextSize"/><attr format="color" name="legendTextColor"/><attr name="legendIconHeightMode"/><attr name="legendIconWidthMode"/><attr format="dimension|float|integer" name="legendIconHeight"/><attr format="dimension|float|integer" name="legendIconWidth"/><attr format="boolean" name="legendVisible"/><attr format="dimension" name="domainLineExtension"/><attr format="dimension" name="rangeLineExtension"/></declare-styleable></configuration></mergedItems></merger>

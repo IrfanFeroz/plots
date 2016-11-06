@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/drawable/graph_background.png",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/drawable/graph_background.png"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/drawable/leak_canary_toast_background.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/drawable/leak_canary_toast_background.xml"
+    }
+]

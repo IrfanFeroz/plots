@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/layout/leak_canary_ref_row.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/layout/scatter_plot_example.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/layout/scatter_plot_example.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/layout/leak_canary_leak_row.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/layout/bar_plot_example.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/layout/bar_plot_example.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/layout/simple_xy_plot_example.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/layout/simple_xy_plot_example.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/layout/pie_chart.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/layout/pie_chart.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/layout/step_chart_example.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/layout/step_chart_example.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/layout/leak_canary_ref_top_row.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/layout/demo_app_widget.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/layout/demo_app_widget.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/layout/spinner_item.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/layout/time_series_example.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/layout/time_series_example.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/layout/leak_canary_heap_dump_toast.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/layout/leak_canary_display_leak.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_display_leak.xml"
+    }
+]

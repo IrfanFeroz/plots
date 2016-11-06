@@ -1,0 +1,919 @@
+[
+    {
+        "outputFile": "/home/mlh-9343/Desktop/androidplot/androidplot-core/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 11,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1047,
+                        "endLine": 34,
+                        "endColumn": 11,
+                        "endOffset": 1247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endLine": 17,
+                    "endColumn": 11,
+                    "endOffset": 715
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 3126,
+                        "endLine": 102,
+                        "endColumn": 11,
+                        "endOffset": 3581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 720,
+                    "endLine": 22,
+                    "endColumn": 11,
+                    "endOffset": 903
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 4868,
+                        "endLine": 144,
+                        "endColumn": 11,
+                        "endOffset": 5051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 908,
+                    "endLine": 30,
+                    "endColumn": 11,
+                    "endOffset": 1298
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 4,
+                        "startOffset": 7140,
+                        "endLine": 213,
+                        "endColumn": 11,
+                        "endOffset": 7530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1303,
+                    "endLine": 38,
+                    "endColumn": 11,
+                    "endOffset": 1691
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 7536,
+                        "endLine": 222,
+                        "endColumn": 11,
+                        "endOffset": 7924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1696,
+                    "endLine": 43,
+                    "endColumn": 11,
+                    "endOffset": 1878
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 5057,
+                        "endLine": 150,
+                        "endColumn": 11,
+                        "endOffset": 5239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1883,
+                    "endLine": 54,
+                    "endColumn": 11,
+                    "endOffset": 2332
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 2671,
+                        "endLine": 90,
+                        "endColumn": 11,
+                        "endOffset": 3120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2337,
+                    "endLine": 59,
+                    "endColumn": 11,
+                    "endOffset": 2514
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 4503,
+                        "endLine": 132,
+                        "endColumn": 11,
+                        "endOffset": 4680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2519,
+                    "endLine": 67,
+                    "endColumn": 11,
+                    "endOffset": 2903
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 6362,
+                        "endLine": 195,
+                        "endColumn": 11,
+                        "endOffset": 6746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2908,
+                    "endLine": 75,
+                    "endColumn": 11,
+                    "endOffset": 3290
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 6752,
+                        "endLine": 204,
+                        "endColumn": 11,
+                        "endOffset": 7134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3295,
+                    "endLine": 80,
+                    "endColumn": 11,
+                    "endOffset": 3471
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 4686,
+                        "endLine": 138,
+                        "endColumn": 11,
+                        "endOffset": 4862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3476,
+                    "endLine": 91,
+                    "endColumn": 11,
+                    "endOffset": 3926
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 4047,
+                        "endLine": 126,
+                        "endColumn": 11,
+                        "endOffset": 4497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 3931,
+                    "endLine": 96,
+                    "endColumn": 11,
+                    "endOffset": 4109
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 5620,
+                        "endLine": 168,
+                        "endColumn": 11,
+                        "endOffset": 5798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 4114,
+                    "endLine": 104,
+                    "endColumn": 11,
+                    "endOffset": 4499
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 242,
+                        "startColumn": 4,
+                        "startOffset": 8718,
+                        "endLine": 249,
+                        "endColumn": 11,
+                        "endOffset": 9103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4504,
+                    "endLine": 109,
+                    "endColumn": 11,
+                    "endOffset": 4686
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 5987,
+                        "endLine": 180,
+                        "endColumn": 11,
+                        "endOffset": 6169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4691,
+                    "endLine": 114,
+                    "endColumn": 11,
+                    "endOffset": 4872
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 6175,
+                        "endLine": 186,
+                        "endColumn": 11,
+                        "endOffset": 6356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 4877,
+                    "endLine": 122,
+                    "endColumn": 11,
+                    "endOffset": 5260
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 9109,
+                        "endLine": 258,
+                        "endColumn": 11,
+                        "endOffset": 9492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5265,
+                    "endLine": 127,
+                    "endColumn": 11,
+                    "endOffset": 5442
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 4,
+                        "startOffset": 5804,
+                        "endLine": 174,
+                        "endColumn": 11,
+                        "endOffset": 5981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5447,
+                    "endLine": 132,
+                    "endColumn": 11,
+                    "endOffset": 5610
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 1962,
+                        "endLine": 62,
+                        "endColumn": 11,
+                        "endOffset": 2125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 5615,
+                    "endLine": 137,
+                    "endColumn": 11,
+                    "endOffset": 5776
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endLine": 69,
+                        "endColumn": 11,
+                        "endOffset": 2341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 5781,
+                    "endLine": 142,
+                    "endColumn": 11,
+                    "endOffset": 5943
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 2397,
+                        "endLine": 76,
+                        "endColumn": 11,
+                        "endOffset": 2559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 5948,
+                    "endLine": 147,
+                    "endColumn": 11,
+                    "endOffset": 6108
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 1745,
+                        "endLine": 55,
+                        "endColumn": 11,
+                        "endOffset": 1905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6113,
+                    "endLine": 154,
+                    "endColumn": 11,
+                    "endOffset": 6341
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1458,
+                        "endLine": 48,
+                        "endColumn": 11,
+                        "endOffset": 1686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 6346,
+                    "endLine": 159,
+                    "endColumn": 11,
+                    "endOffset": 6527
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 860,
+                        "endLine": 28,
+                        "endColumn": 11,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 6532,
+                    "endLine": 164,
+                    "endColumn": 11,
+                    "endOffset": 6731
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1253,
+                        "endLine": 40,
+                        "endColumn": 11,
+                        "endOffset": 1452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 6736,
+                    "endLine": 175,
+                    "endColumn": 11,
+                    "endOffset": 7190
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 3587,
+                        "endLine": 114,
+                        "endColumn": 11,
+                        "endOffset": 4041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 7195,
+                    "endLine": 180,
+                    "endColumn": 11,
+                    "endOffset": 7377
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 5245,
+                        "endLine": 156,
+                        "endColumn": 11,
+                        "endOffset": 5427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 7382,
+                    "endLine": 188,
+                    "endColumn": 11,
+                    "endOffset": 7771
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 224,
+                        "startColumn": 4,
+                        "startOffset": 7930,
+                        "endLine": 231,
+                        "endColumn": 11,
+                        "endOffset": 8319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 7776,
+                    "endLine": 196,
+                    "endColumn": 11,
+                    "endOffset": 8163
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 4,
+                        "startOffset": 8325,
+                        "endLine": 240,
+                        "endColumn": 11,
+                        "endOffset": 8712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 8168,
+                    "endLine": 201,
+                    "endColumn": 11,
+                    "endOffset": 8349
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 5433,
+                        "endLine": 162,
+                        "endColumn": 11,
+                        "endOffset": 5614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 8354,
+                    "endLine": 205,
+                    "endColumn": 11,
+                    "endOffset": 8508
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/attrs.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 700,
+                        "endLine": 22,
+                        "endColumn": 11,
+                        "endOffset": 854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 8513,
+                    "endColumn": 39,
+                    "endOffset": 8548
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 39,
+                        "endOffset": 818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 8553,
+                    "endColumn": 42,
+                    "endOffset": 8591
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 823,
+                        "endColumn": 42,
+                        "endOffset": 861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 8596,
+                    "endColumn": 38,
+                    "endOffset": 8630
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 947,
+                        "endColumn": 38,
+                        "endOffset": 981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 8635,
+                    "endColumn": 50,
+                    "endOffset": 8681
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endColumn": 50,
+                        "endOffset": 778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 8686,
+                    "endColumn": 39,
+                    "endOffset": 8721
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endColumn": 39,
+                        "endOffset": 901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 8726,
+                    "endColumn": 40,
+                    "endOffset": 8762
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 906,
+                        "endColumn": 40,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 15025,
+                    "endLine": 254,
+                    "endColumn": 12,
+                    "endOffset": 17031
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 700,
+                        "endLine": 58,
+                        "endColumn": 12,
+                        "endOffset": 2706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 17036,
+                    "endLine": 272,
+                    "endColumn": 12,
+                    "endOffset": 18109
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2712,
+                        "endLine": 77,
+                        "endColumn": 12,
+                        "endOffset": 3785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 18114,
+                    "endLine": 290,
+                    "endColumn": 12,
+                    "endOffset": 19196
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 3791,
+                        "endLine": 96,
+                        "endColumn": 12,
+                        "endOffset": 4873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 19201,
+                    "endLine": 308,
+                    "endColumn": 12,
+                    "endOffset": 20073
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 4879,
+                        "endLine": 115,
+                        "endColumn": 12,
+                        "endOffset": 5751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 20078,
+                    "endLine": 315,
+                    "endColumn": 12,
+                    "endOffset": 20381
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 5757,
+                        "endLine": 123,
+                        "endColumn": 12,
+                        "endOffset": 6060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 20386,
+                    "endLine": 322,
+                    "endColumn": 12,
+                    "endOffset": 20750
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 6194,
+                        "endLine": 133,
+                        "endColumn": 12,
+                        "endOffset": 6558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 20755,
+                    "endLine": 329,
+                    "endColumn": 12,
+                    "endOffset": 21120
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/androidplot-core/src/main/res/values/style.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 6564,
+                        "endLine": 141,
+                        "endColumn": 12,
+                        "endOffset": 6929
+                    }
+                }
+            }
+        ]
+    }
+]

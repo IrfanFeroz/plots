@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 771,
+                        "endColumn": 58,
+                        "endOffset": 825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 46,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 724,
+                        "endColumn": 46,
+                        "endOffset": 766
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/xml/point_formatter.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/point_formatter.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/xml/pie_segment_formatter4.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/pie_segment_formatter4.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/xml/bubble_formatter1.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/bubble_formatter1.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/xml/pie_segment_formatter1.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/pie_segment_formatter1.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/xml/bubble_formatter2.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/bubble_formatter2.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/xml/line_point_formatter_with_labels.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/line_point_formatter_with_labels.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/xml/pie_segment_formatter3.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/pie_segment_formatter3.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/xml/line_point_formatter.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/line_point_formatter.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/xml/point_formatter_2.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/point_formatter_2.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/xml/candlestick_formatter.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/candlestick_formatter.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/xml/bubble_formatter3.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/bubble_formatter3.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/xml/line_point_formatter_with_labels_2.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/line_point_formatter_with_labels_2.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/xml/pie_segment_formatter2.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/pie_segment_formatter2.xml"
+    },
+    {
+        "merged": "/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/res/merged/debug/xml/demo_app_widget_provider_info.xml",
+        "source": "/home/mlh-9343/Desktop/androidplot/demoapp/src/main/res/xml/demo_app_widget_provider_info.xml"
+    }
+]

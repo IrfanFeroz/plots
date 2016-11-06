@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.halfhp.fig/figlib/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de8046139933d665ec919c8052042ac1c6020a36">
+        <dex dex="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/pre-dexed/debug/com.halfhp.fig-figlib-1.0.3_d74a61f3d3157afc2d530d7629c2795fa2d54750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mlh-9343/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.5/3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f/leakcanary-analyzer-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f">
+        <dex dex="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.5_98d794ab5b44a58884ad4b5f1020347fdfbf2c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mlh-9343/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.5/288101b16513158c2923ad3fb6161d1452b65e73/leakcanary-watcher-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="288101b16513158c2923ad3fb6161d1452b65e73">
+        <dex dex="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.5_c3df7cbd6f1d4b3997720140688bdd59cccd8164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mlh-9343/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.3/640a438d2d415c056ca6a673ac26b183b044e160/haha-2.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/pre-dexed/debug/haha-2.0.3_bc503a1a6a612e4f31e3de3405a8df164dd46d7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.androidplot/androidplot-core/1.2.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5521366a7816f4d8f3e3f6f31faf4821820a7d6d">
+        <dex dex="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/pre-dexed/debug/com.androidplot-androidplot-core-1.2.3_8438422f797ed29e12c7e839baf4c3edeae454c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7a2672b3122b897a0751f327929ae405ea02bf7">
+        <dex dex="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/pre-dexed/debug/com.squareup.leakcanary-leakcanary-android-1.5_bc255e977585dbb07d44f1a858e317cec1fdf093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mlh-9343/.gradle/caches/modules-2/files-2.1/com.crittercism/crittercism-android-agent/5.4.0/1ec29963c2b25ac58aaf5253b47586fd2bf4dce9/crittercism-android-agent-5.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ec29963c2b25ac58aaf5253b47586fd2bf4dce9">
+        <dex dex="/home/mlh-9343/Desktop/androidplot/demoapp/build/intermediates/pre-dexed/debug/crittercism-android-agent-5.4.0_02cc15cd39e62fb902799193c3587768456bb4b3.jar" />
+    </item>
+
+</items>
